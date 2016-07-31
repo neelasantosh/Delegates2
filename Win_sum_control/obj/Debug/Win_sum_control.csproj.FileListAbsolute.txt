@@ -1,0 +1,6 @@
+D:\MyVisualStudioProjects\UsingDelegatesInWindowsApplication\Win_sum_control\bin\Debug\Win_sum_control.dll
+D:\MyVisualStudioProjects\UsingDelegatesInWindowsApplication\Win_sum_control\bin\Debug\Win_sum_control.pdb
+D:\MyVisualStudioProjects\UsingDelegatesInWindowsApplication\Win_sum_control\obj\Debug\Win_sum_control.My_Sum_Control.resources
+D:\MyVisualStudioProjects\UsingDelegatesInWindowsApplication\Win_sum_control\obj\Debug\Win_sum_control.csproj.GenerateResource.Cache
+D:\MyVisualStudioProjects\UsingDelegatesInWindowsApplication\Win_sum_control\obj\Debug\Win_sum_control.dll
+D:\MyVisualStudioProjects\UsingDelegatesInWindowsApplication\Win_sum_control\obj\Debug\Win_sum_control.pdb
